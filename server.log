@@ -1,0 +1,7 @@
+[dotenv@17.2.3] injecting env (0) from .env -- tip: 🔐 prevent committing .env to code: https://dotenvx.com/precommit
+Server running on port 3000
+User connected: 4-1_AbzN8r0wasgoAAAC
+User connected: -goI0KhmnYmJ8elsAAAF
+Socket -goI0KhmnYmJ8elsAAAF joined user_3
+User disconnected: -goI0KhmnYmJ8elsAAAF
+User disconnected: 4-1_AbzN8r0wasgoAAAC
